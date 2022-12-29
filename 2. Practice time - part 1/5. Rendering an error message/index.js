@@ -3,3 +3,6 @@
 // that has the id="error".
 
 
+function purchase () {
+    document.getElementById("error").textContent = "Something went wrong, please try again"
+}
