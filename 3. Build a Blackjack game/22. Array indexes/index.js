@@ -13,3 +13,7 @@ let experience = ["CEO at Scrimba", "Frontend developer at Xeneta", "People coun
 // Frontend developer at Xeneta
 // People counter for Norstat
 // CEO at Scrimba
+
+console.log(experience[1], experience[2], experience[0])
+
+console.log(featuredPosts.length)

@@ -1,10 +1,10 @@
-console.log(4 === 3)  // 
-console.log(5 > 2)    // 
-console.log(12 > 12)  //
-console.log(3 < 0)    //
-console.log(3 >= 3)   // 
-console.log(11 <= 11) //
-console.log(3 <= 2)   //
+console.log(4 === 3)  // f
+console.log(5 > 2)    // t
+console.log(12 > 12)  // f
+console.log(3 < 0)    // f
+console.log(3 >= 3)   // t
+console.log(11 <= 11) // t
+console.log(3 <= 2)   // f
 
 // let firstCard = 10
 // let secondCard = 11
