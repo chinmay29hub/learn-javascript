@@ -15,7 +15,8 @@
 
 ### Lead Tracker (A Chrome Extension)
 
-To install this extension, follow the steps below:
+<details>
+    <summary>To install this extension, follow the steps below:</summary>
 
 1. Download the zip file from the repository or [Click Here](https://github.com/chinmay29hub/learn-javascript/raw/5947dec48d062d77a71c8370efead8b002298277/lead_tracker.zip)
 2. Extract the zip file.
@@ -62,3 +63,7 @@ To install this extension, follow the steps below:
 <br>
   
 10.  To remove the extension, click on the `Remove` button.
+
+
+</details>
+<hr>
