@@ -9,7 +9,7 @@
 
 <hr>
 
-### BlackJacl Game : [Live Demo](https://chinmay29hub.github.io/learn-javascript/3.%20Build%20a%20Blackjack%20game/54.%20Congrats%20&%20recap/)
+### BlackJacK Game : [Live Demo](https://chinmay29hub.github.io/learn-javascript/3.%20Build%20a%20Blackjack%20game/54.%20Congrats%20&%20recap/)
 
 <hr>
 
