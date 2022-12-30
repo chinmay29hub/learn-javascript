@@ -19,6 +19,7 @@
     <summary>To install this extension, follow the steps below:</summary>
 
 1. Download the zip file from the repository or [Click Here](https://github.com/chinmay29hub/learn-javascript/raw/5947dec48d062d77a71c8370efead8b002298277/lead_tracker.zip)
+   
 2. Extract the zip file.
 3. Open the Chrome browser.
    
@@ -28,8 +29,8 @@
 </p>
 <br>
 
-1. Type `chrome://extensions` in the address bar.
-2. Enable the `Developer Mode` on the top right corner.
+4. Type `chrome://extensions` in the address bar.
+5. Enable the `Developer Mode` on the top right corner.
 
 <br>
 <p align='center'>
@@ -46,6 +47,7 @@
 <br>
 
 7. The extension is now installed. You can see it in the extensions list.
+   
 8. If you are unable to see the extension, click on the `Details` button and then click on the `Extension options` button. And update the extension.
 
 <br>
