@@ -1,4 +1,12 @@
-let myLeads = ["www.awesomelead.com"]
+let myLeads = '["www.awesomelead.com"]'
+
+myLeads = JSON.parse(myLeads)
+console.log(myLeads)
+myLeads.push("google.com")
+console.log(myLeads)
+myLeads = JSON.stringify(myLeads)
+console.log(myLeads)
+console.log(typeof myLeads)
 
 
 
