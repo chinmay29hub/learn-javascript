@@ -7,9 +7,21 @@
 
 ### Passenger Counter App : [Live Demo](https://chinmay29hub.github.io/learn-javascript/1.%20Build%20a%20Passenger%20Counter%20App/28.%20Congrats%20&%20recap/)
 
+<br>
+<p align='center'>
+<img src="images/counter.png">
+</p>
+<br>
+
 <hr>
 
 ### BlackJacK Game : [Live Demo](https://chinmay29hub.github.io/learn-javascript/3.%20Build%20a%20Blackjack%20game/54.%20Congrats%20&%20recap/)
+
+<br>
+<p align='center'>
+<img src="images/blackjack.png">
+</p>
+<br>
 
 <hr>
 
