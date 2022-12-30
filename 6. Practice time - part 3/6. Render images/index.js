@@ -10,6 +10,12 @@ const imgs = [
 
 let container = document.getElementById("container")
 
-for (let i=0; i<imgs.length; i++) {
-    container.innerHTML += container.innerHTML = `<img class="team-img" src=${imgs[i]}>`
-} 
+function render () {
+    let imgDOM = ""
+    for (let i=0; i<imgs.length; i++) {
+        imgDOM += `<img alt="Employee of the company" class="team-img" src=${imgs[i]}>`
+    }
+    container.innerHTML = imgDOM
+}
+
+render()
